@@ -19,7 +19,7 @@ DvorakJP自体の入力は妨げない範囲で2つほど独自の拡張を行�
 
 DvorakJP 配列とは、Dvorak 配列に日本語をより効率的に入力できるようなマッピングを足したキー配列です。
 
-本家： http://www7.plala.or.jp/dvorakjp/ 
+機能や特徴などは http://www7.plala.or.jp/dvorakjp/ に書かれているものを参考にしてください。
 
 # Dvorak 配列
 
